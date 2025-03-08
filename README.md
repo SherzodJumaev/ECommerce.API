@@ -8,7 +8,7 @@ This project is a .NET-based application designed to manage an online shopping, 
 - RESTful API endpoints
 - Database integration
 - Authentication and authorization
-- Unit and integration testing
+- Unit testing
 - Configuration via JSON files
 
 **Technologies Used**
